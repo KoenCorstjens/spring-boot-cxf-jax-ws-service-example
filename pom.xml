@@ -4,11 +4,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>eu.corstjens.example.spring.boot.cxf.webservice</groupId>
-    <artifactId>spring-boot-cxf-service-example</artifactId>
+    <artifactId>spring-boot-cxf-jax-ws-service-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>spring-boot-cxf-service-example</name>
+    <name>spring-boot-cxf-jax-ws-service-example</name>
     <description>Demo project for Spring Boot</description>
 
     <parent>
