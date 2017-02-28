@@ -1,5 +1,5 @@
 # spring-boot-cxf-service-example
-Example for cxf service  on spring boot 
+Example for cxf web services with JAX-WS on spring boot 
 
 
 
