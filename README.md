@@ -1,4 +1,4 @@
-# spring-boot-cxf-jax-ws-service-example
+    # spring-boot-cxf-jax-ws-service-example
 Example for cxf web services with JAX-WS on spring boot 
 
 - First step add dependency cxf-spring-boot-starter-jaxws
